@@ -1,0 +1,154 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "sigafi_esContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Domain\/RRHH",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "RRHH_Backend",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "campo_amplio_unesco",
+         "ObjectType": 0
+      },
+      {
+         "Name": "campo_detallado_unesco",
+         "ObjectType": 0
+      },
+      {
+         "Name": "campo_especifico_unesco",
+         "ObjectType": 0
+      },
+      {
+         "Name": "categorias_contratos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "ciudades",
+         "ObjectType": 0
+      },
+      {
+         "Name": "contratos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "cursos_profesores",
+         "ObjectType": 0
+      },
+      {
+         "Name": "dedicacion",
+         "ObjectType": 0
+      },
+      {
+         "Name": "discapacidades",
+         "ObjectType": 0
+      },
+      {
+         "Name": "estadoCivil",
+         "ObjectType": 0
+      },
+      {
+         "Name": "etnias",
+         "ObjectType": 0
+      },
+      {
+         "Name": "financiamiento_beca",
+         "ObjectType": 0
+      },
+      {
+         "Name": "grados_academicos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "nacionalidades",
+         "ObjectType": 0
+      },
+      {
+         "Name": "niveles_academicos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "paises",
+         "ObjectType": 0
+      },
+      {
+         "Name": "parroquias",
+         "ObjectType": 0
+      },
+      {
+         "Name": "periodos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "profesores",
+         "ObjectType": 0
+      },
+      {
+         "Name": "provincias",
+         "ObjectType": 0
+      },
+      {
+         "Name": "relacion_ies",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tipo_funcionario",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tipos_becas",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tipos_contratos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tipoSangre",
+         "ObjectType": 0
+      },
+      {
+         "Name": "titulos_en_curso",
+         "ObjectType": 0
+      },
+      {
+         "Name": "titulos_profesores",
+         "ObjectType": 0
+      },
+      {
+         "Name": "universidades",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
